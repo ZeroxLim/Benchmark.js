@@ -22,4 +22,4 @@ person.spellMyName();<br />
 
 # Sample log
 -> [spellMyName] 0.2880ms(100.0000%)<br />
-______[getMyName] 0.0950ms(32.9861%)<br />
+\t\t[getMyName] 0.0950ms(32.9861%)<br />
