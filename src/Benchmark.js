@@ -22,7 +22,7 @@
 * THE SOFTWARE.
 */
  
-function Benchmark( scopeReplace ) {
+function Benchmark() {
 
     if ( !( this instanceof Benchmark) ) {
         var obj = function (  ) { };
